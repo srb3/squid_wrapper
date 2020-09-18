@@ -1,4 +1,5 @@
 # squid_wrapper
 
-TODO: Enter the cookbook description here.
+## Overview
+A simple wrapper cookbook arround the squid cookbook.
 
